@@ -69,3 +69,23 @@
 ### 删除学生信息
 
 <img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/7.png" width = 60% height = 60% />
+
+### 修改学生信息
+
+<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/8.png" width = 60% height = 60% />
+
+### 查询学生信息
+
+<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/9.png" width = 60% height = 60% />
+
+### 统计学生总人数
+
+<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/10.png" width = 60% height = 60% />
+
+### 显示全部学生
+
+<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/11.png" width = 60% height = 60% />
+
+### 排序
+
+<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/12.png" width = 60% height = 60% />
