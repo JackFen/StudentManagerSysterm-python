@@ -32,11 +32,11 @@
 
 ## 模块导图
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/1.png" width = 60% height = 60% />
+<img src="./imageOfNotes/1.png" width = 60% height = 60% />
 
 ## 系统业务流程
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/2.png" width = 60% height = 60% />
+<img src="./imageOfNotes/2.png" width = 60% height = 60% />
 
 ## 系统开发环境
 
@@ -50,42 +50,42 @@
 
 ## 项目目录结构
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/3.png" width = 60% height = 60% />
+<img src="./imageOfNotes/3.png" width = 60% height = 60% />
 
 ## 模块设计
 
 ### 主函数的业务流程
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/4.png" width = 60% height = 60% />
+<img src="./imageOfNotes/4.png" width = 60% height = 60% />
 
 ### 各个函数的功能
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/5.png" width = 60% height = 60% />
+<img src="./imageOfNotes/5.png" width = 60% height = 60% />
 
 ### 录入学生信息
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/6.png" width = 60% height = 60% />
+<img src="./imageOfNotes/6.png" width = 60% height = 60% />
 
 ### 删除学生信息
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/7.png" width = 60% height = 60% />
+<img src="./imageOfNotes/7.png" width = 60% height = 60% />
 
 ### 修改学生信息
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/8.png" width = 60% height = 60% />
+<img src="./imageOfNotes/8.png" width = 60% height = 60% />
 
 ### 查询学生信息
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/9.png" width = 60% height = 60% />
+<img src="./imageOfNotes/9.png" width = 60% height = 60% />
 
 ### 统计学生总人数
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/10.png" width = 60% height = 60% />
+<img src="./imageOfNotes/10.png" width = 60% height = 60% />
 
 ### 显示全部学生
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/11.png" width = 60% height = 60% />
+<img src="./imageOfNotes/11.png" width = 60% height = 60% />
 
 ### 排序
 
-<img src="https://github.com/JackFen/StudentManagerSysterm-python/blob/main/imageOfNotes/12.png" width = 60% height = 60% />
+<img src="./imageOfNotes/12.png" width = 60% height = 60% />
